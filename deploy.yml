@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: project
-        image: docker6767/20Aprilimage
+        image: docker6767/aprilimage
         ports:
         - containerPort: 80
